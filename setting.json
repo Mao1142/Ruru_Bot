@@ -1,0 +1,20 @@
+{
+    "TOKEN": "NzE3Mzg1MjUxOTAyNzE4MDUz.XuNaGQ.RE8mr1i2xjGw1tNMQ2yxEtT5BOU",
+    "Test_Channel": "717384683184455692",
+    "DragonPort_Ch": "400329522890670083",
+    "PicSource": [
+        "sankaku",
+        "yande",
+        "gelbooru",
+        "danbooru"
+    ],
+    "sankaku": "https://chan.sankakucomplex.com/post/show/",
+    "sankaku_max": "20875380",
+    "yande": "https://yande.re/post/show/",
+    "yande_max": "647558",
+    "gelbooru": "https://gelbooru.com/index.php?page=post&s=view&id=",
+    "gelbooru_max": "5353900",
+    "danbooru": "https://danbooru.donmai.us/posts/",
+    "danbooru_max": "3951987",
+    "time": "60"
+}
